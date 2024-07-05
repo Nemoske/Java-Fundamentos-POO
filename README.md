@@ -1,5 +1,5 @@
 
-# Programação Orientada a objetos - parte 2 
+# Programação Orientada a objetos - parte 1 e 2  
 
 
 
